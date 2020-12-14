@@ -1,6 +1,6 @@
 # FART - Find And Replace Text
 
-Small windows command line tool to find and replace text in files
+Small windows command-line tool to find and replace text in files
 
 ### Usage
 `fart [options]`
